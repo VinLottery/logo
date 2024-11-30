@@ -1,0 +1,13 @@
+{
+    "symbol": "VIN",
+    "name": "VinLottery",
+    "description": "Value, opportunity, and global lotteries.",
+    "website": "https://lottery.vin",
+    "communities": {
+        "email": "contact@lottery.vin",
+        "telegram_group": "https://t.me/VinLotteryGroup",
+        "telegram_channel": "https://t.me/VinLottery",
+        "twitter": "https://twitter.com/VinLottery",
+        "github": "https://github.com/VinLottery"
+    }
+}
